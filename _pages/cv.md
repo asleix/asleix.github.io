@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information Technology and Electrical Engineering, ETH Zürich, 2025 (expected)
+* B.S. in Data Science, Universitat Politècnica de Catalunya, 2023
+* B.S. in Engineering Physics, Universitat Politècnica de Catalunya, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Assistant
+  * ETH Zürich, Switzerland
+  * Duties included: Compiler Development for High-Level Synthesis
+  * Supervisor: Prof. Dr. Lana Josipovic
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 - Spring 2023: Research Intern
+  * Netflix, Los Gatos, USA
+  * Duties included: Development of Video Coding Algorithms
+  * Supervisor: Dr. Joel Sole
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2022: Engineering Intern
+  * Qualcomm, remote, USA
+  * Duties included: Deep Learning for Network Planning
+  * Supervisor: Dr. Jordi Ros-Giralt
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C++
+  * C
+  * Python
+  * SIMD (x86 and AVX)
+* Deep Learning
+  * Pytorch
+  * OpenCV
+* Cloud Computing
+  * AWS EC2
+  * Google Cloud Vertex AI
 
 Publications
 ======
@@ -59,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
