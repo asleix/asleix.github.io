@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's in Information Technology and Electrical Engineering at ETH Zürich. I have experience as a Software Engineer and Data Scientist. My research interests include:
-- Image and Video Compression
-- Computer Vision
-- Compilers and High-Level Synthesis
+I am currently pursuing a Master's in Information Technology and Electrical Engineering at ETH Zürich. I have experience as a Researcher, Data Scientist and Software Engineer. 
+
+I am looking for PhD opportunities. 
+
+My research interests include:
+- Data Compression.
+- Applications of Data Science to Physics.
+- Scientific Computing.
 
 Groups and collaborations
 ------
